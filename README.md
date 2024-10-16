@@ -2,6 +2,7 @@
 Cookify is a web application that allows users to explore a wide variety of recipes and find culinary inspiration.
 
 Features
+
 Recipe Search: Easily search for recipes ingredient. Find the perfect recipe for any occasion.
 Recipe Details: Get detailed information about each recipe, including ingredients, cooking instructionsand video tutorials.
 Interactive UI: Enjoy a user-friendly and visually appealing interface that enhances the browsing and cooking experience.
