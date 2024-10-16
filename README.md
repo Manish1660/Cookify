@@ -11,7 +11,7 @@ Check out the live demo of Cookify: Cookify
 Getting Started
 To run Cookify locally, follow these steps:
 
-Clone the repository: git clone https://github.com/Swapn2003/Cookify.git
+Clone the repository: git clone https://github.com/Manish1660/Cookify.git
 Navigate to the project directory: cd Cookify
 Open index.html in browser to access Cookify.
 Technologies Used
